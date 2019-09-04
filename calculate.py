@@ -24,5 +24,5 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 
 	print(args.intadd1 + " + " + args.intadd2 + " = " + math.add(args.intadd1,args.intadd2))
-	print(args.numerator + "/" + args.denominator + " = " math.div(args.numerator, args.denominator))
+	print(args.numerator + "/" + args.denominator + " = " + math.div(args.numerator, args.denominator))
 
