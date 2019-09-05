@@ -1,5 +1,4 @@
 #!/bin/bash
-chmod -x run.sh
 conda activate swe4s
 echo ...running calculate.py...
 
